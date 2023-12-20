@@ -15,3 +15,9 @@ The project includes all programs written in Python currently, focusing on all t
 
 ------------------------------------------------------------------------
 AUTHORS: Arihant Bhandari
+
+------------------------------------------------------------------------
+PROJECTS:
+
+1) projects.ipynb : 5 projects made initially : Diabetes , medical insurance cost , gold price prediction using ANN , cifar10 prediction using CNN , stock price prediction using RNN
+2) project_brain_tumour.ipynb : a brain tumour binary classification model (CNN)
